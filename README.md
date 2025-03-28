@@ -1,3 +1,5 @@
+![IT Nation RW Banner]([https://your-image-link.com/banner.png](https://imgur.com/a/nrUxiYn))
+
 # 👨‍💻 IT Nation Global | Empowering Africa with Tech & Forex 🚀
 
 Welcome to **IT Nation Global**, a leading hub for **Forex Trading, IT Solutions, and Digital Transformation** in Africa.
