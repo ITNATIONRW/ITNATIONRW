@@ -1,4 +1,5 @@
-![IT Nation RW Banner](https://i.imgur.com/nrUxiYn.png)
+![IT Nation RW Banner](https://i.imgur.com/xglvia1.png)
+
 
 
 # 👨‍💻 IT Nation Global | Empowering Africa with Tech & Forex 🚀
