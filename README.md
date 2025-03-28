@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 IT Nation RW | Empowering Africa with Tech & Forex 🚀
 
-<!--
-**ITNATIONRW/ITNATIONRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **IT Nation RW**, a leading hub for **Forex Trading, IT Solutions, and Digital Transformation** in Africa.
 
-Here are some ideas to get you started:
+## 🌟 What We Do  
+✅ **Forex Trading** - Learn Smart Money Concepts (SMC) & Profitable Strategies  
+✅ **Software Development** - Custom Business Systems & Web Apps  
+✅ **IT Training & Consulting** - Web Development, Graphic Design & More  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Connect with Us  
+🔗 **Website:** [Coming Soon]  
+📧 **Email:** info@itnationrw.com  
+📍 **Location:** Rwanda, Africa  
+📱 **WhatsApp:** [+250 791 292 469](https://wa.me/250791292469)  
+
+## 🔥 Featured Repositories  
+🚀 [Border Management System](https://github.com/itnationrw/border-management)  
+💰 [Forex Trading Bot](https://github.com/itnationrw/forex-bot)  
+🎨 [IT Nation Website](https://github.com/itnationrw/itnation-website)  
+
+---
+
+💡 *"Turning Ideas into Solutions & Profits!"*  
+📢 Follow us for updates & projects!
