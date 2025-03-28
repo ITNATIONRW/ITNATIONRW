@@ -1,6 +1,6 @@
-# 👨‍💻 IT Nation RW | Empowering Africa with Tech & Forex 🚀
+# 👨‍💻 IT Nation Global | Empowering Africa with Tech & Forex 🚀
 
-Welcome to **IT Nation RW**, a leading hub for **Forex Trading, IT Solutions, and Digital Transformation** in Africa.
+Welcome to **IT Nation Global**, a leading hub for **Forex Trading, IT Solutions, and Digital Transformation** in Africa.
 
 ## 🌟 What We Do  
 ✅ **Forex Trading** - Learn Smart Money Concepts (SMC) & Profitable Strategies  
